@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Portfolio"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nguyen Hoang Phung"
 description              : &description "personal description"
