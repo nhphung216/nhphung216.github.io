@@ -19,7 +19,7 @@ Work experience
   * [Thegioitho](https://thegioitho.com/): The platform connects customers with a team of skilled workers, solve job problems for workers and the need to search for clients' workers at a reasonable cost.
   
 ### May 2018 – May 2019: Senior Android Developer ([Dekla.io](https://www.linkedin.com/company/deklaio/about/))
-  * [MyEtherPony](https://myetherpony.io/) lives within the Ethereum Blockchain network and each pony is attached with a unique Gene, that makes them not only one-of a kind but also inherently secure like other crypto assets. (https://myetherpony.io).
+  * [MyEtherPony](https://myetherpony.io/) lives within the Ethereum Blockchain network and each pony is attached with a unique Gene, that makes them not only one-of a kind but also inherently secure like other crypto assets.
   * May - June - 2018: onsite Malaysia
 
 ### Oct 2015 – April 2018: Android Developer ([Edge-Works Co., Ltd](https://www.edge-works.net/))
