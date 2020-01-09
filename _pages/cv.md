@@ -9,12 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Bachelor of Technology (Software Engineering), [University of Science Ho Chi Minh City](https://www.hcmus.edu.vn/) (Oct 2013)
 
-Work experience
-======
+## Work experience
 ### Jun 2019 – Present: Senior Android Developer ([K-Soft](https://k-group.asia/))
   * [Thegioitho](https://thegioitho.com/): The platform connects customers with a team of skilled workers, solve job problems for workers and the need to search for clients' workers at a reasonable cost.
   
