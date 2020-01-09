@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Technology (Software Engineering), University of Science Ho Chi Minh City (Oct 2013)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2019 – Present: Senior Android Developer (K-Soft)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2018 – May 2019: Senior Android Developer (Dekla.io)
+  * MyEtherPony lives within the Ethereum Blockchain network and each pony is attached with a unique Gene, that makes them not only one-of a kind but also inherently secure like other crypto assets. (https://myetherpony.io).
+  * May - June - 2018: onsite Malaysia
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Oct 2015 – April 2018: Android Developer (Edge-Works Co., Ltd)
+  * Support, training for the internship, team members.
+  * PandaTalk: Secure Chat & Video application
+  * Velotrade: works to help businesses profit quicker through finance factoring and discounting. SMEs receive advances on their outstanding invoices, making it easier to further expand their business.
+  * Plevo: connect device RFID reader.
+  * Bemoir: allows you to discover and experience the rich history behind a physical object or a location.
+  * NanoBook: read summary book, listen to podcast, listen to mind music, share book.
+
+Sep 2015 – Oct 2015: Android Developer
+  * ItChat: Chat application.
+
+Sep 2013 – 2015: Front-end Developer (iDentalSoft)
+  * Cloud-based dental practice management software.
