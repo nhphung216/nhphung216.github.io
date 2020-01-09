@@ -11,7 +11,7 @@ main:
     url: /contact/
 
   - title: "Blog"
-      url: /blog/
+    url: /blog/
 
   - title: "Project"
     url: /project/
