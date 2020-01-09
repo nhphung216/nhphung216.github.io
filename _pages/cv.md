@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Technology (Software Engineering), University of Science Ho Chi Minh City (Oct 2013)
+* Bachelor of Technology (Software Engineering), [University of Science Ho Chi Minh City](https://www.hcmus.edu.vn/) (Oct 2013)
 
 Work experience
 ======
