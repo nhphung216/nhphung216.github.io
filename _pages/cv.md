@@ -24,9 +24,6 @@ redirect_from:
 * Experience with Flutter project.
 * Have experience publishing apps on the App Store and Google Play.
 
-## Education
-* Bachelor of Technology (Software Engineering), [University of Science Ho Chi Minh City](https://www.hcmus.edu.vn/)
-
 ## Work experience
 ### Jun 2019 – Present: Mobile Leader, Senior Android Developer ([K-Soft at K-Group](https://k-group.asia/))
   * [Thegioitho](https://thegioitho.com/): The platform connects customers with a team of skilled workers, solve job problems for workers and the need to search for clients' workers at a reasonable cost.
@@ -47,3 +44,6 @@ redirect_from:
 
 ### Sep 2013 – 2015: Front-end Developer ([iDentalSoft](https://www.identalsoft.com/))
   * Cloud-based dental practice management software.
+
+## Education
+* Bachelor of Technology (Software Engineering), [University of Science Ho Chi Minh City](https://www.hcmus.edu.vn/)
