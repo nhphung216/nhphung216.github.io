@@ -12,17 +12,17 @@ redirect_from:
 * A passionate developer focused on developing Mobile Application. Ability to problem-solving, critical thinking, and communication skills. Ability to work individually and in teams. Ensuring the best possible performance, the quality of the application. Researching new technologies to apply to future projects.
 
 ## Technical Skills
-* Good command of programming language (Java, Kotlin).
-* OOP, design pattern, SOLID, data structures, and algorithms.
+* Understanding of OOP, design pattern, SOLID, data structures, and algorithms.
+* Experience with Java, Kotlin.
 * Familiar with Android Architecture Components framework.
-* Familiar with IDE & SDK: Android Studio, Eclipse, IntelliJ, Webstorm
-* Familiar with manager tasks, analysis tools: Fabric, Appsee, OpenProject, Trello, Redmine, Github, GitLab, Firebase
-* Experience working with remote data via REST APIs and JSON as well as integrating with third-party libraries and APIs.
 * Knowledge of UI elements & layout, basic animation technique, able to customize and optimize the interface.
-* Experience with modern JS frameworks Angular, cross-platform (Ionic & Cordova), NodeJS, MongoDB.
-* Experience with smart contract development on the Ethereum network using Solidity, Web3, Metamask.io.
-* Experience with Flutter project.
-* Have experience publishing apps on the App Store and Google Play.
+* Experience with the Flutter project.
+* Familiar with tools: Android Studio, IntelliJ, Webstorm, Fabric, Appsee, Google Analytics, Open Project, Trello, Redmine, Github, GitLab, Firebase, Fastlane…
+* Experience working with Retrofit, RESTful,  third-party libraries, and APIs.
+* Experience working with Angular, Ionic & Cordova, NodeJS, MongoDB, WebRTC.
+* Experience working with smart contract development on the Ethereum network using Solidity, Web3, Metamask.io.
+* Good mindset about UI/UX.
+* Have experience build, deploy, publishing apps on the App Store and Google Play.
 
 ## Work experience
 ### Jun 2019 – Present: Mobile Leader, Senior Android Developer ([K-Soft at K-Group](https://k-group.asia/))
