@@ -7,11 +7,11 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
 
+  - title: "Project"
+    url: /project/
+
   - title: "Contact"
     url: /contact/
 
 #  - title: "Blog"
 #    url: /blog/
-
-  - title: "Project"
-    url: /project/
