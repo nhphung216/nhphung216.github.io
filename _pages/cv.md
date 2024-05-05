@@ -25,7 +25,11 @@ using Solidity, Web3, Metamask.io.
 Play.
 
 ## Work experience
-### Jun 2019 – Present: Mobile Leader, Senior Android Developer ([K-Soft at K-Group](https://k-group.asia/))
+### Jul 2021 - Recent: ([Siliconprime](https://www.siliconprime.com/)).
+* Bigrich: https://bigrich.app Big Rich makes giving fun and easy. Connect the cards you spend with and Big Rich will automatically round-up your purchases for charity.
+* BridgeTracker: https://www.bridgeathletic.com Design custom programs, train in-person or remotely, and track performance
+
+### Jun 2019 – June 2021: Mobile Leader, Senior Android Developer ([K-Soft at K-Group](https://k-group.asia/))
 * [Thegioitho](https://thegioitho.com/): The platform connects customers with a team of skilled workers, solve job problems for workers and the need to search for clients' workers at a reasonable cost.
 * Working as a developer and team leader.
 * Assign tasks and track the tasks progress of members.
