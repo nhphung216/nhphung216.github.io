@@ -25,7 +25,7 @@ using Solidity, Web3, Metamask.io.
 Play.
 
 ## Work experience
-### Jul 2021 - Recent: ([Siliconprime](https://www.siliconprime.com/)).
+### Jul 2021 - Recent: Senior Android Developer ([Siliconprime](https://www.siliconprime.com/)).
 * Bigrich: https://bigrich.app Big Rich makes giving fun and easy. Connect the cards you spend with and Big Rich will automatically round-up your purchases for charity.
 * BridgeTracker: https://www.bridgeathletic.com Design custom programs, train in-person or remotely, and track performance
 
